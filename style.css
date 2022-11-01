@@ -31,7 +31,6 @@ body {
 }
 
 .nft-img {
-  justify-content: center;
   position: relative;
   padding: 15px;
 }
@@ -46,14 +45,16 @@ body {
   position: absolute;
   top: 40%;
   left: 40%;
-  width: 50px;
   transition: 100ms ease-in;
+}
+
+.nft-img2 img {
+  /* width: 50px; */
 }
 
 .nft-img:hover > .nft-img2 {
   visibility: visible;
   cursor: pointer;
-  background: linear-gradient(hsl(178, 100%, 50%));
 }
 
 .nft-card-content h2 {
