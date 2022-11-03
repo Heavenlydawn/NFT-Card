@@ -53,13 +53,13 @@ body {
 .nft-img2::after{
   position: absolute;
   top: -35%;
-  left: -40%;
+  left: -38%;
   content: "";
-  width:100%;
+  width:90%;
   height: 90%;
   z-index: 2;
   background-color: hsla(178, 100%, 50%, 50%);
-  border-radius: 30px;
+  border-radius: 10px;
   margin:0 10px;
 }
 
