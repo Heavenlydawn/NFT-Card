@@ -47,7 +47,7 @@ body {
   left: 40%;
   width: 100%;
   height: 100%;
-  transition: 100ms ease-in;
+  /* transition: 100ms ease-in; */
 }
 
 .nft-img2::after{
